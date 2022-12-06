@@ -1,3 +1,32 @@
-h1 {
-  color: red;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+.Navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #2b3a55;
+  color: #f2e5e5;
+  padding: 12px;
+}
+
+.Navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.About {
+  margin: 12px;
+  width: 400px;
+
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #e8c4c4;
+  color: #2b3a55;
+  box-shadow: 3px 3px #ce7777;
 }

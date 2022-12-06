@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landscaping-website/static/css/main.33e5a265.css",
+    "main.js": "/landscaping-website/static/js/main.b1fe04de.js",
+    "static/media/day_side_view.png": "/landscaping-website/static/media/day_side_view.5778fa9b3d562cd8de00.png",
+    "static/media/day_full_front_view.png": "/landscaping-website/static/media/day_full_front_view.d4f49a98a363be77eb60.png",
+    "static/media/day_banner_view.png": "/landscaping-website/static/media/day_banner_view.314f359b8acf9fcd7ae6.png",
+    "static/media/day_waterfall_view.png": "/landscaping-website/static/media/day_waterfall_view.619c08611eeca220faa9.png",
+    "static/media/night_front_view.png": "/landscaping-website/static/media/night_front_view.3f19c44883349e273af6.png",
+    "static/media/banner.png": "/landscaping-website/static/media/banner.77c5eeaa09d916f32ee7.png",
+    "index.html": "/landscaping-website/index.html",
+    "main.33e5a265.css.map": "/landscaping-website/static/css/main.33e5a265.css.map",
+    "main.b1fe04de.js.map": "/landscaping-website/static/js/main.b1fe04de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e5a265.css",
+    "static/js/main.b1fe04de.js"
+  ]
+}
